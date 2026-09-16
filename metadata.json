@@ -1,0 +1,6 @@
+{
+  "name": "Central de Chat e Sincronização de PDDs",
+  "description": "Chat corporativo RAG para análise em tempo real de documentos PDD, T2R e planilhas com regras estritas de nomenclatura e tradução para executivos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
