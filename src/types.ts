@@ -74,6 +74,7 @@ export interface ChatMessage {
 
 export interface SessionMemory {
   sessionId: string;
+  title?: string;
   learnedFacts: string[];
   messages: Array<{
     sender: 'user' | 'assistant';
